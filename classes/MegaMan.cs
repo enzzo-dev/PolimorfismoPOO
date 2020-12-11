@@ -4,7 +4,7 @@ namespace PolimorfismoPOO.classes
     {
         private string Buster;
 
-        public  string Correr(){
+        public override string Correr(){
             return "Coorendo em 2x";
         }
     }

@@ -6,7 +6,7 @@ namespace PolimorfismoPOO.classes
 
         private float forcaPulo;
 
-        public string Correr(){
+        public virtual string Correr(){
             return "Correndo em velocidade 1x";
         }
 
